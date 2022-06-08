@@ -1,0 +1,64 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
+<<<<<<< HEAD
+.caja{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(127, 255, 159);
+    height: 65vh;
+}
+.caja1{
+    display: flex;
+    background-color: aquamarine;
+    height: 35vh;
+}
+.caja2{
+    display: flex;
+    background-color: lightblue;
+    height: 35vh;
+}
+.caja3{
+    display: flex;
+    background-color: lightseagreen;
+    height: 65vh;
+}
+.caja4{
+    display: flex;
+    background-color: lightseagreen;
+    height: 65vh;
+}
+
+
+
+
+
+}
+=======
+.caja1{
+    display: flex;
+    flex-direction: column;
+    background-color:#BEE892;
+    height: 60vh;
+}
+.caja2{
+    display: flex;
+    background-color: #6DB42C;
+    height: 30vh;
+}
+.caja3{
+    display: flex;
+    flex-direction: column;
+    background-color:#EAAE78;
+    height: 30vh;
+}
+.caja4{
+    display: flex;
+    background-color: #F08516;
+    height: 60vh;
+}
+>>>>>>> e7b1005671d7cbf1aa8f74d8cc0e2d10f47e39e7
